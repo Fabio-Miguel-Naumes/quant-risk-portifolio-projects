@@ -129,7 +129,7 @@ def train_logistic_regression(df):
     # Criar e treinar o modelo de Regressão Logística
     # solver=\'liblinear\' é bom para datasets menores
     # class_weight=\'balanced\' ajuda a lidar com desbalanceamento de classes (default é raro)
-    model = LogisticRegression(solver=\'liblinear\', class_weight=\'balanced\', random_state=42)
+    model = LogisticRegression(solver='liblinear', class_weight='balanced', random_state=42)
     model.fit(X_train, y_train)
     
     print("\nModelo de Regressão Logística treinado.")
