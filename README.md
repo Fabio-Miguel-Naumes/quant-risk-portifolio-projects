@@ -202,7 +202,7 @@ Estou constantemente aprimorando e expandindo este portfólio. Projetos futuros 
 
 Estou aberto a oportunidades na área quantitativa em instituições financeiras. Sinta-se à vontade para entrar em contato:
 
-- **LinkedIn**: [Seu Perfil LinkedIn]((https://www.linkedin.com/in/fabiomiguelnaumes/))
+- **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/fabiomiguelnaumes/)
 - **Email**: fabio.naumes.quant@gmail.com
 
 ## Licença
