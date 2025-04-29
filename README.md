@@ -28,7 +28,7 @@ Implementação de modelos ARCH (Autoregressive Conditional Heteroskedasticity) 
 
 **Aplicações no mercado:** Gestão de risco, precificação de derivativos, otimização de portfólios, estratégias de trading baseadas em volatilidade.
 
-[Ver projeto →](./volatility_modeling)
+
 
 ### 2. Precificação de Opções Europeias com Black-Scholes
 
@@ -44,7 +44,7 @@ Implementação completa do modelo Black-Scholes para precificação de opções
 
 **Aplicações no mercado:** Precificação de derivativos, estruturação de produtos, arbitragem, market making.
 
-[Ver projeto →](./european_options_pricing)
+
 
 ### 3. Value at Risk (VaR) - Gestão de Risco de Mercado
 
@@ -60,7 +60,7 @@ Implementação de diferentes metodologias para cálculo do Value at Risk (VaR),
 
 **Aplicações no mercado:** Gestão de risco de mercado, alocação de capital, compliance regulatório, relatórios para comitês de risco.
 
-[Ver projeto →](./value_at_risk)
+
 
 ### 4. Greeks e Delta Hedging - Gestão de Risco de Derivativos
 
@@ -76,7 +76,6 @@ Implementação do cálculo dos "Greeks" (Delta, Gamma, Vega, Theta, Rho) para o
 
 **Aplicações no mercado:** Gestão de risco de derivativos, market making, estruturação de produtos, trading proprietário.
 
-[Ver projeto →](./greeks_and_delta_hedging)
 
 ### 5. Modelagem de Risco de Crédito - Probabilidade de Default
 
@@ -92,7 +91,7 @@ Implementação de modelos para estimar a probabilidade de default (PD) de contr
 
 **Aplicações no mercado:** Concessão de crédito, precificação baseada em risco, cálculo de capital regulatório, gestão de portfólios de crédito.
 
-[Ver projeto →](./credit_risk_modeling)
+
 
 ## Competências Demonstradas
 
@@ -203,8 +202,8 @@ Estou constantemente aprimorando e expandindo este portfólio. Projetos futuros 
 
 Estou aberto a oportunidades na área quantitativa em instituições financeiras. Sinta-se à vontade para entrar em contato:
 
-- **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- **Email**: seu.email@exemplo.com
+- **LinkedIn**: [Seu Perfil LinkedIn]((https://www.linkedin.com/in/fabiomiguelnaumes/))
+- **Email**: fabio.naumes.quant@gmail.com
 
 ## Licença
 
